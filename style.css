@@ -77,3 +77,11 @@ span{
 h1{ 
   font-size: 5vw;
 }
+.education{ 
+  height: 10px;
+  background: red;
+
+}
+.text-primary{ 
+  display: none;
+}
